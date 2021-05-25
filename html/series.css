@@ -1,0 +1,47 @@
+body{
+    background-image: url("serie.jpeg");
+    background-size: 100%;
+}
+h1{
+    color:lawngreen;
+}
+h2{
+    color: lawngreen;
+}
+h3{
+    color: lawngreen;
+}
+div{
+    color:white;
+    background-color: black;
+    border: 1mm solid lawngreen;
+}
+p{
+    font-size: 7mm;
+    color: white;
+}
+li{
+    list-style-type:square;
+    font-size: 7mm;
+    color: white;
+}
+table{
+    margin: auto;
+    border-color: lawngreen;
+    color: white;
+    background-color: black;
+}
+th{
+    background-color: lawngreen;
+    color:white;
+}
+td{
+    text-align:center;
+}
+button{
+    background-color: lawngreen;
+    font-size: 8mm;
+}
+b{
+    color: lawngreen;
+}

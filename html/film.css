@@ -1,0 +1,43 @@
+body{
+    background-image: url("movie.jpg");
+    background-size: 100%;
+}
+h1{
+    font-size: 50px;
+    color:orange;
+}
+p{
+    font-size: 7mm;
+    color: white;
+}
+div{
+    background-color: black;
+    padding: 1px;
+    border: 5px solid orange;
+}
+h3{
+    font-size: 8mm;
+    color: orange;
+}
+h2{
+    font-size: 40px;
+    color:orange;
+}
+table{
+    margin: auto;
+    background-color:orange;
+}
+td{
+    text-align: center;
+    font-size: 5mm;
+    color: orange;
+    background-color: black;
+    width: 100px;
+}
+button{
+    background-color: orange;
+    font-size: 8mm;
+}
+b{
+    color: orange;
+}

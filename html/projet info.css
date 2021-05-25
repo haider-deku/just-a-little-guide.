@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url("img.jpg");
+    background-size: 100%;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: red;
+    font-size: 2cm;
+}
+h2{
+    font-size: 1cm;
+    color: white;
+}
+p{
+    color: whitesmoke;
+}
+div{
+    width: 15cm;
+    margin: auto;
+    background-color: black;
+    padding: 1px;
+    border: 5px solid red;
+}
+button{
+    font-size: 7mm;
+    color:aliceblue;
+    background-color: red;
+}

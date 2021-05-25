@@ -1,0 +1,41 @@
+body{
+    background-image: url("anime.jpg");
+    background-size: 100%;
+}
+h1{
+    font-size: 8mm;
+    color:orangered;
+}
+div{
+    background-color: black;
+    border: 1mm solid orangered;
+    margin: auto;
+}
+p{
+    color: white;
+}
+h3{
+    color: orangered;
+}
+ul{
+    font-size: auto ;
+    color: seashell;
+}
+table{
+    border-color: orangered;
+    background-color: black;
+    margin: auto;
+    color:aliceblue
+}
+th{
+    font-size: 7mm;
+    background-color: orangered;
+}
+button{
+    background-color: orangered;
+    font-size: 8mm
+}
+b{
+    font-size:xx-large;
+    color: orangered;
+}
